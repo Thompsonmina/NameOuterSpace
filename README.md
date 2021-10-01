@@ -1,6 +1,6 @@
 ### NameOuterSpace
 
-This is a custom search engine built as part of our CSC 322 coursework.
+This is a custom search engine built as part of our CSC coursework.
 
 ### Tests
 Tests are in the `/Tests/` folder.
